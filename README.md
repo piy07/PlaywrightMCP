@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/stars/piy07/PlaywrightMCP?style=flat-square" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/piy07/PlaywrightMCP/actions" target="_blank">
-    <img src="https://github.com/piy07/PlaywrightMCP/actions/workflows/main.yml/badge.svg" alt="Build Status" />
+    <img src="https://github.com/piy07/PlaywrightMCP/actions/workflows/playwright.yml/badge.svg" alt="Build Status" />
   </a>
   <a href="https://github.com/piy07/PlaywrightMCP/issues" target="_blank">
     <img src="https://img.shields.io/github/issues/piy07/PlaywrightMCP?style=flat-square" alt="Issues" />
