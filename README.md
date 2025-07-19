@@ -1,3 +1,30 @@
+<!-- Badges -->
+<p align="left">
+  <a href="https://www.npmjs.com/package/ortoni-report" target="_blank">
+    <img src="https://img.shields.io/npm/v/ortoni-report.svg?style=flat-square" alt="NPM Version" />
+  </a>
+  <a href="https://www.npmjs.com/package/@playwright/test" target="_blank">
+    <img src="https://img.shields.io/npm/v/@playwright/test.svg?style=flat-square" alt="Playwright NPM Version" />
+  </a>
+  <a href="https://github.com/piy07/PlaywrightMCP" target="_blank">
+    <img src="https://img.shields.io/github/stars/piy07/PlaywrightMCP?style=flat-square" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/piy07/PlaywrightMCP/actions" target="_blank">
+    <img src="https://github.com/piy07/PlaywrightMCP/actions/workflows/main.yml/badge.svg" alt="Build Status" />
+  </a>
+  <a href="https://github.com/piy07/PlaywrightMCP/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/piy07/PlaywrightMCP?style=flat-square" alt="Issues" />
+  </a>
+  <a href="https://github.com/piy07/PlaywrightMCP/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/piy07/PlaywrightMCP?style=flat-square" alt="Forks" />
+  </a>
+  <img src="https://img.shields.io/github/license/piy07/PlaywrightMCP?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/piy07/PlaywrightMCP?style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/contributors/piy07/PlaywrightMCP?style=flat-square" alt="Contributors" />
+  <!-- Uncomment below if you add code coverage integration -->
+  <!-- <img src="https://img.shields.io/codecov/c/github/piy07/PlaywrightMCP?style=flat-square" alt="Coverage" /> -->
+</p>
+
 # PlaywrightMCP Framework
 
 This is a Playwright-based end-to-end testing framework with Ortoni reporting integration.
